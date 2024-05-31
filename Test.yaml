@@ -1,0 +1,49 @@
+---
+car_manufacturers_1:
+  - Aston Martin
+  - Fiat
+  - Ford
+  - Vauxhall
+
+car_manufacturers_2:
+  - name: Aston Martin
+    year_founded: 1913
+    website: https://www.astonmartin.com
+  - name: Fiat
+    year_founded: 1899
+    website: https://www.fiat.com
+  - name: Ford
+    year_founded: 1903
+    website: https://www.ford.com
+  - name: Vauxhall
+    year_founded: 1857
+    website: https://www.vauxhall.co.uk
+
+car_manufacturers_3:
+  - name: Aston Martin
+    year_founded: 1913
+    website: https://www.astonmartin.com
+    founded_by:
+      - Lionel Martin
+      - Robert Bamford
+  - name: Fiat
+    year_founded: 1899
+    website: https://www.fiat.com
+    founded_by:
+      - Giovanni Agnelli
+      - Lodovico Scarfiotti
+      - Roberto Biscaretti di Ruffia
+      - Cesare Goria Gatti
+      - Emanuele Cacherano di Bricherasio
+      - Carlo Biscaretti di Ruffia
+      - Michele Ceriana Mayneri
+  - name: Ford
+    year_founded: 1903
+    website: https://www.ford.com
+    founded_by:
+      - Henry Ford
+  - name: Vauxhall
+    year_founded: 1857
+    website: https://www.vauxhall.co.uk
+    founded_by:
+      - Alexander Wilson
